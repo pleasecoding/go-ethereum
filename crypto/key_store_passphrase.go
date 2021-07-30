@@ -36,7 +36,7 @@ import (
 	"io"
 	"reflect"
 
-	"code.google.com/p/go-uuid/uuid"
+	"github.com/pborman/uuid"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto/randentropy"
 	"golang.org/x/crypto/pbkdf2"
